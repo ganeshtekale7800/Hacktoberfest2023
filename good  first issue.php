@@ -1,6 +1,6 @@
 <?php
 include('db.php');
-?>
+?>gggg
 <!DOCTYPE html>
 <html lang="en">
 <head>
