@@ -2,7 +2,7 @@
 include('db.php');
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">vvvv
 <head>
 <title>PUNERI HOTEL</title>
 <!-- for-mobile-apps -->
