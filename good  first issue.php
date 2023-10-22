@@ -1,5 +1,5 @@
   <?php
-include('db.php');ggggg
+include('db.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
